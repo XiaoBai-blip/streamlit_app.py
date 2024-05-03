@@ -7,7 +7,7 @@ import plotly.figure_factory as ff
 import altair as alt
 import seaborn as sns
 import statsmodels.api as sm
-data = pd.read_csv("merged_d2_d3_left_store.csv")
+data = pd.read_csv("../merged_d2_d3_left_store.csv")
 
 st.title("Statistical Analysis")
 
