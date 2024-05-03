@@ -5,3 +5,4 @@ plotly==5.9.0
 streamlit==1.33.0
 seaborn
 streamlit_shadcn_ui
+statsmodels
