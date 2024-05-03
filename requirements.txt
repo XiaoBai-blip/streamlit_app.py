@@ -1,6 +1,7 @@
 Streamlit
 pandas
 numpy
+matplotlib
 matplotlib.pyplot
 plotly.figure_factory
 altair
