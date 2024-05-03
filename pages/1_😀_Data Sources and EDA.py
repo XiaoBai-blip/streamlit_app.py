@@ -10,7 +10,7 @@ import numpy as np
 import plotly.express as px
 
 # load the data
-data = pd.read_csv("../merged_d2_d3_left_store.csv")
+data = pd.read_csv("./merged_d2_d3_left_store.csv")
 
 # this is sidebar section
 st.sidebar.header("Filter options")
