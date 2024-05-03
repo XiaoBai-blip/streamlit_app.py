@@ -1,0 +1,8 @@
+Streamlit
+pandas
+numpy
+matplotlib.pyplot
+plotly.figure_factory
+altair
+seaborn
+
